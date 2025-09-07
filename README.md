@@ -22,6 +22,7 @@ Configuration Flexibility: Fabric data agents are highly configurable. You can p
 
 Scope and Use Case: Fabric copilots are designed to assist with tasks within Microsoft Fabric, such as generation of notebook code or warehouse queries. Fabric data agents, in contrast, are standalone artifacts. To make Fabric data agents more versatile for broader use cases, they can integrate with external systems like Microsoft Copilot Studio, Azure AI Foundry, Microsoft Teams, or other tools outside Fabric.
 
-**Reference**: https://learn.microsoft.com/en-us/fabric/data-science/concept-data-agent# MS_Fabric
+**Reference**: https://learn.microsoft.com/en-us/fabric/data-science/concept-data-agent
+
 https://learn.microsoft.com/en-us/fabric/data-science/data-agent-tenant-settings
 
